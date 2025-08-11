@@ -1,16 +1,15 @@
-/******************************************************************************
 
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 #include <stdio.h>
 
-int main()
-{
-    printf("ruffs");
-
-    return 0;
-}
+int main ()
+{ char STR[20], STR1[20]
+  printf("Digite uma string:");
+  gets (STR);
+  
+  printf("Digite outra String")
+  gets(STR1);
+  
+  if(SCPM (STR,STR1){
+  printf("São iguais")
+  
+  }
